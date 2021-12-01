@@ -1,0 +1,444 @@
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBaoCao.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fKhachHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fQuanLyKho.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fKhachHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fKhachHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fQuanLyKho.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csprojAssemblyReference.cache
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fKhachHang.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fQuanLyKho.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fQuanLyKho.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+D:\Learning\C#\LINQ\GIT\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csprojAssemblyReference.cache
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+G:\3.2.LTWD\1.BTL\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+D:\Learning\C#\LINQ\BTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBanHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\BTLVD\LapTrinhWindowsBTL\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csprojAssemblyReference.cache
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+E:\SUBJECTS\LapTrinhWindows\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBaoCaoBanHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBaoCaoBanHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+G:\1_Lap trinh Window\BTL_Nhom7\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\.Test\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBaoCaoBanHang.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csprojAssemblyReference.cache
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBaoCaoBanHang.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+G:\3.2.LTWD\.BTL(newest)\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe.config
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.exe
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BTLLapTrinhWindows.pdb
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.dll
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\bin\Debug\itextsharp.xml
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.AssemblyReference.cache
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.ResolveComReference.cache
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.fMain.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fBaoCaoBanHang.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDon.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fChiTietHoaDonNhap.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDangNhap.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhMucSanPham.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachDonHang.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachSanPham.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fForgetPassWord.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.FKhachHang.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhaCungCap.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhanVien.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fNhapHang.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fDanhSachHDNhap.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fResetPassWord.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fSuaSanPham.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaiKhoan.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTaoDonHang.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fThemSanPham.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTonKho.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fTroGiup.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.GUI.fXemSanPham.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.Properties.Resources.resources
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.GenerateResource.cache
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.csproj.CopyComplete
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.exe
+C:\Users\This PC\Desktop\Win\LapTrinhWinDows\BTLLapTrinhWindows\BTLLapTrinhWindows\obj\Debug\BTLLapTrinhWindows.pdb
